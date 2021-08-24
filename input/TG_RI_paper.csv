@@ -1,0 +1,38 @@
+TargetGene,name,Stem,Leaf,group,annotated by,note2
+Potri.010G072000.1,PHT1;1,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;1
+Potri.010G071700.1,PHT1;2,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;2
+Potri.010G071500.1,PHT1;3,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;3
+Potri.005G223500.1,PHT1;4,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;4
+Potri.002G038900.1,PHT1;5,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;5
+Potri.005G175500.1,PHT1;6,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;6
+Potri.005G223600.1,PHT1;7,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;7
+Potri.019G061900.1,PHT1;8,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;8
+Potri.002G005500.1,PHT1;9,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;9
+Potri.015G022800.1,PHT1;10 ,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;10 
+Potri.005G256100.1,PHT1;11,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;11
+Potri.001G318500.1,PHT1;12,T,T,PHT1,"Kavka & Polle, 2016",PtrPHT1;12
+Potri.005G175700.1,z_PHT1.10_,T,T,PHT1,"Zhang, Meng, Li, & Zhao, 2016",z_PtPHT1.10_
+Potri.005G223700.1,k_PHT1_a,T,T,PHT1,"Kavka & Polle, 2016",k_PHT1_a
+Potri.010G071600.2,z_PHT1.6_,T,T,PHT1,"Zhang, Meng, Li, & Zhao, 2016",z_PtPHT1.6_
+Potri.013G089800.1,k_PHT1_b,T,T,PHT1,"Kavka & Polle, 2016",k_PHT1_b
+Potri.001G111400.1,AtPHT5;3 ortholog,T,T,PHT5,Phytozome_Ptrichocarpa_444_v3.1.annotation_info.txt,ortholog of AtPHT5;3
+Potri.003G120600.1,AtPHT5;3 ortholog,T,T,PHT5,Phytozome_Ptrichocarpa_444_v3.1.annotation_info.txt,ortholog of AtPHT5;3
+Potri.014G078000.1,AtPHT5;3 ortholog,T,T,PHT5,Phytozome_Ptrichocarpa_444_v3.1.annotation_info.txt,ortholog of AtPHT5;3
+Potri.008G090300.2,PHO1,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO1
+Potri.008G090400.1,PHO2,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO2
+Potri.008G110800.1,PHO3,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO3
+Potri.008G169400.1,PHO4,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO4
+Potri.010G069000.2,PHO5,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO5
+Potri.010G132300.1,PHO6,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO6
+Potri.010G164900.1,PHO7,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO7
+Potri.010G165300.1,PHO8,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO8
+Potri.010G165800.2,PHO9,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO9
+Potri.016G032900.1,PHO10,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO10
+Potri.017G086800.2,PHO11,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO11
+Potri.T048933.1,PHO12a,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO12a
+Potri.T097866.1,PHO12b,T,T,PHO,"Zhang, Meng, Li, & Zhao, 2016",PtPHO12b
+Potri.005G020600.1,DPD1,F,T,DPD1,"Takami, et al. 2018",PtDPD1
+Potri.011G079500.1,LHB1B1,F,T,Lu,"Lu, et al. 2020",PtLHB1B1
+Potri.001G348900.12,CA1,F,T,Lu,"Lu, et al. 2020",PtCA1
+Potri.015G099200.1,WRKY75 ,F,T,Lu,"Lu, et al. 2020",PtWRKY75 
+Potri.001G374800.1,GLR2,F,T,Lu,"Lu, et al. 2020",PtGLR2
