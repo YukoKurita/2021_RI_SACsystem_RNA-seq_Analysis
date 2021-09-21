@@ -7,4 +7,4 @@ Put "Analysis.R" and "Input" in the same folder and run "Analysis.R".
 The points to note are written in “Analysis.R" under the heading “NOTE:".
 
 Analysis.R: R source code for analys.
-Input: All data required for analysis.
+Input: All data required for analysis.The raw count data (excnt_lab.csv) will be available after the paper is accepted.
